@@ -1,16 +1,19 @@
-## Hi there 👋
+# Jessica Peters
 
-<!--
-**JessicaPeters1979/JessicaPeters1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angehende KI-Consultant mit Fokus auf praktische Anwendungen in Python, KI und Automatisierung.
 
-Here are some ideas to get you started:
+## 🔧 Technische Schwerpunkte
+- Python (Grundlagen & Automatisierung)
+- KI-Tools & Large Language Models (LLMs)
+- API-Anbindungen (erste praktische Erfahrungen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projekte
+- Python-Automatisierung – erste Skripte und Anwendungen
+- KI-Tools Experimente – Nutzung von KI zur Texterstellung und Unterstützung
+- API-Tests – erste Erfahrungen mit Schnittstellen
+
+## 📚 Aktuell
+Weiterbildung zur KI-Consultant (DBE Academy)
+
+## 🎯 Ziel
+Einstieg in den Bereich Künstliche Intelligenz / IT
