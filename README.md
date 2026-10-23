@@ -1,19 +1,18 @@
-# Jessica Peters
+Jessica Peters
 
-Angehende KI-Consultant mit Fokus auf praktische Anwendungen in Python, KI und Automatisierung.
+Zertifizierter KI-Consultant und Python-Entwicklerin mit Fokus auf praxisnahe und wertschöpfende Anwendungen in der Prozessautomatisierung, LLM-Integration und IT-Infrastruktur.
 
-## 🔧 Technische Schwerpunkte
-- Python (Grundlagen & Automatisierung)
-- KI-Tools & Large Language Models (LLMs)
-- API-Anbindungen (erste praktische Erfahrungen)
+Technische Schwerpunkte
 
-## 💻 Projekte
-- Python-Automatisierung – erste Skripte und Anwendungen
-- KI-Tools Experimente – Nutzung von KI zur Texterstellung und Unterstützung
-- API-Tests – erste Erfahrungen mit Schnittstellen
+• Python & Automation: Strukturierte Skripte, Datenanalyse und Pipeline-Entwicklung mit Pandas und NumPy.
+• KI & LLM-Integration: Prompt Engineering, Anbindung von OpenAI APIs sowie Evaluierung von Large Language Models (LLMs).
+• Business-Schnittstelle: Konzeption datenschutzkonformer KI-Strategien, Workflow-Optimierung und Durchführung von Praxis-Workshops für KMUs.
 
-## 📚 Aktuell
-Weiterbildung zur KI-Consultant (DBE Academy)
+Fokus-Projekte
 
-## 🎯 Ziel
-Einstieg in den Bereich Künstliche Intelligenz / IT
+• KI-Strategie für KMU: Umfassende Analyse bestehender Geschäftsprozesse und Erstellung eines praxisnahen, DSGVO-konformen Implementierungsfahrplans für einen Handwerksbetrieb.
+• Python-Automation-Basics: Entwicklung maßgeschneiderter Skripte zur Workflow-Optimierung und automatisierten Datenverarbeitung.
+
+Ziel
+
+Gemeinsam mit mittelständischen Unternehmen die digitale Transformation gestalten – durch maßgeschneiderte Lösungen mit echtem betriebswirtschaftlichen Nutzen (wahlweise mit oder ohne KI). 100 % remote aus Schleswig-Holstein.
